@@ -15,4 +15,4 @@ services:
   frontend:
     build:
       context: ./udagram-frontend
-    image: ayomideajewole/udagram-frontend:v3
+    image: ayomideajewole/udagram-frontend:v4
